@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EduSpark AI - Interactive Learning Gamified",
+  "description": "A comprehensive educational platform that transforms study materials into interactive quizzes, flashcards, and mind maps using Gemini AI, featuring a full gamification system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
